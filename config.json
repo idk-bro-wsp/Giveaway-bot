@@ -1,0 +1,12 @@
+{
+  "clientId": "1470474619227209810",
+  "clientSecret": "s2veMmCQXk4YBdhQhrgIWd5HimPimvDM",
+  "redirectUri": "http://45.131.65.244:3015/callback",
+  "port": 3015,
+  "sessionSecret": "y7KpV2fR9xLqH3sZ8tWbN4mJ0uC1vQ6r",
+  "defaultSettings": {
+    "creatorRoles": [],
+    "extraRoles": {},
+    "blockRoles": []
+  }
+}
