@@ -1,9 +1,9 @@
 {
-  "clientId": "1470474619227209810",
-  "clientSecret": "s2veMmCQXk4YBdhQhrgIWd5HimPimvDM",
-  "redirectUri": "http://45.131.65.244:3015/callback",
-  "port": 3015,
-  "sessionSecret": "y7KpV2fR9xLqH3sZ8tWbN4mJ0uC1vQ6r",
+  "clientId": "client id here",
+  "clientSecret": "client sercret here",
+  "redirectUri": "https://yourdomain.yourextension/callback",
+  "port": host port,
+  "sessionSecret": "random string of text here",
   "defaultSettings": {
     "creatorRoles": [],
     "extraRoles": {},
